@@ -1,0 +1,42 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "name": {
+            "value": "qwiklabswebapp1509"
+        },
+        "location": { 
+            "value": "Central US"
+        },   
+        "sku": {
+            "value": "Free"
+        },
+        "skucode": {
+            "value": "Free"
+        },
+        "repositoryUrl": {
+            "value": "https://github.com/PoojithaPenta/testingwebapp"
+        },
+        "branch": {
+            "value": "main"
+        },
+        "repositoryToken": {
+            "value": "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" 
+        },
+        "appLocation": {
+            "value": "/"
+        },
+        "apiLocation": {
+            "value": ""
+        },
+        "appArtifactLocation": {
+            "value": "src"
+        },
+        "appSettings": {
+            "value": {
+                "MY_APP_SETTING1": "value 1",
+                "MY_APP_SETTING2": "value 2"
+            }
+        }
+    }
+}
