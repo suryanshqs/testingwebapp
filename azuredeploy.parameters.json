@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "name": {
-            "value": "qwiklabswebapp1509"
+            "value": "qwikwebapp2808"
         },
         "location": { 
             "value": "East Asia"
@@ -15,13 +15,13 @@
             "value": "Free"
         },
         "repositoryUrl": {
-            "value": "https://github.com/PoojithaPenta/testingwebapp"
+            "value": "https://github.com/suryanshqs/testingwebapp"
         },
         "branch": {
             "value": "main"
         },
         "repositoryToken": {
-            "value": "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" 
+            "value": "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" 
         },
         "appLocation": {
             "value": "/"
